@@ -46,6 +46,8 @@
         </div>
     <div class="row">
 <h2>News</h2>
+<p><b>2014-08-27</b> There are some <b>network/mining issues</b> that can make transactions slow. <b>Info and remedy (v0.3.76rc1)</b>
+<a target="_blank" href="https://forum.namecoin.info/viewtopic.php?p=12459#p12459">here</a>.</p>
 <p><b>2014-06-18</b> Out now: <b>Namecoin v0.3.75</b> - <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1865">Release info</a> -
 <a href="?p=download">Download</a></p>
 <p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
