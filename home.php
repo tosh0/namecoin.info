@@ -41,26 +41,16 @@
 </div>
 
 <div class="row">
-    <h2>Participate</h2>
-    <p>With <b>Namecoin</b> you can make a difference. We need your <b>help to free information</b>, especially in <a href="http://wiki.namecoin.info">wiki</a> editing, marketing and <a href="https://github.com/namecoin">coding</a>.
-    You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
+    <h2>Donate</h2>
+    <p>Help keep us <strong>strong</strong>.</p>
+    <ul>
+        <li>NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3</li>
+        <li>BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa</li>
+    </ul>
 </div>
 
 <div class="row">
-    <div class="col-md-6">
-        <h2>Donate</h2>
-        <p>Help keep us <strong>strong</strong>.</p>
-        <ul>
-            <li>NMC: NDtPuyg3adscr6HCE1GUiSsKPtA8ewKgz3</li>
-            <li>BTC: 17Si1rdVd6gaYbwLq9NkXtGV9Qzt3NmTKa</li>
-        </ul>
-    </div>
-    <div class="col-md-6">
-        <h2>Announcements</h2>
-        <ul>
-            <li><a href="https://twitter.com/NamecoinDotInfo">Twitter @NamecoinDotInfo</a></li>
-            <li><a href="http://forum.namecoin.info/viewtopic.php?f=19&t=1524">Alerts Mailing List</a></li>
-            <li><a href="http://forum.namecoin.info/viewforum.php?f=19">Announcements Forum Thread</a></li>
-        </ul>
-    </div>
+    <h2>Participate</h2>
+    <p>With <b>Namecoin</b> you can make a difference. We need your <b>help to free information</b>, especially in <a href="http://wiki.namecoin.info">wiki</a> editing, marketing and <a href="https://github.com/namecoin">coding</a>.
+    You are welcome at the <a href="http://forum.namecoin.info">forum</a>. There may be <a href="http://forum.namecoin.info/viewforum.php?f=18">bounties</a>, too.</p>
 </div>
