@@ -11,14 +11,14 @@
         </ul>
         <p><b>Namecoin</b> was the first fork of <a href="https://bitcoin.org">Bitcoin</a> and still is one of the most innovative altcoins.
         It was first to implement <a target="_blank" href="http://bitcoin.stackexchange.com/questions/273/how-does-merged-mining-work">merged mining</a> and a
-        <a href="https://bit.namecoin.info">decentralized DNS</a>.
+        <a href="http://bit.namecoin.info">decentralized DNS</a>.
         <b>Namecoin</b> squares <a href="http://en.wikipedia.org/wiki/Zooko%27s_triangle">Zooko's Triangle</a>!</p>
     </div>
     <div class="col-md-6">
         <h2>What can it be used for?        </h2>
         <ul>
             <li>Protect free-speech rights online by making the web more resistant to censorship.</li>
-            <li>Access websites using the <a href="https://bit.namecoin.info">.bit</a> domain (with TLS/SSL).</li>
+            <li>Access websites using the <a href="http://bit.namecoin.info">.bit</a> domain (with TLS/SSL).</li>
             <li>Store <a href="http://nameid.org">identity information</a> such as email, GPG key, BTC address, TLS fingerprints, Bitmessage address, etc.</li>
             <li>Human readable Tor .onion names/domains.</li>
             <li>File signatures, Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).</li>
