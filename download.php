@@ -8,8 +8,8 @@ Download <a href="http://namecoin.info/files/Namecoin_v0.3.75_setup.exe">v0.3.75
 <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1865">Release information</a>.</div>
 <div class="col-sm-4">
 <h3>Mac OS X</h3>
-Download <a href="http://namecoin.info/files/namecoind-mavericks-0.3.75-build20140808.zip">v0.3.75 namecoind</a>.<br>
-<a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=TO_BE_ANNOUNCED">Release information</a>.</div>
+Download <a href="http://namecoin.info/files/Namecoin-Qt.app-0.3.76-18dfe28.zip">v0.3.76 Namecoin-Qt</a>.<br>
+<a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=2012">Release information</a>.</div>
 </div>
 </ul>
 </div>
