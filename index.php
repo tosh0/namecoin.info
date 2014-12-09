@@ -10,7 +10,7 @@ if (isset($_GET['p'])) {
 $home = $page == 'home.php' ? 'active' : '';
 $download = $page == 'download.php' ? 'active' : '';
 $exchanges = $page == 'exchanges.php' ? 'active' : '';
-$exchanges = $team == 'team.php' ? 'active' : '';
+$team = $page == 'team.php' ? 'active' : '';
 $video = $page == 'video.php' ? 'active' : '';
 
 // tag lines
