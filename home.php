@@ -32,10 +32,8 @@
     <h2>News</h2>
     <p><b>2014-09-12</b> Out now: <b>Namecoin v0.3.76</b> - <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1975">Release info</a> -
         <a href="?p=download">Download</a></p>
-    <p><b>2014-06-18</b> Out now: <b>Namecoin v0.3.75</b> - <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1865">Release info</a>
     <p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
     <p><b>2014-04-17</b> The <b>Namecoin</b> blockchain is now <b>three years old</b>. Happy birthday!</p>
-    <p><strong>2013-10-29</strong> A severe bug was found in the name verification code. It has been fixed as of version Q.3.72. <em>Only trust the fixed version Q.3.72 or higher with names!</em></p>
     <p>For the latest news go to the <a href="http://forum.namecoin.info/">Namecoin forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
     <p>Official anouncements will also be made on <a href="https://bitcointalk.org/index.php?topic=236340.0">this BitcoinTalk thread</a>.</p>
 </div>
