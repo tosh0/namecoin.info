@@ -30,9 +30,9 @@
 
 <div class="row">
     <h2>News</h2>
+    <p><b>2014-12-19</b> <b>Softfork</b> upcoming with block 212500 (around New Year's Eve). Pool operators and solo miners please
+        <a href="?p=download">update to v0.3.80</a> asap. Regular users are safe with v0.3.75+</p>
     <p><b>2014-12-16</b> As of block <b>210000</b> the Namecoin block reward halved to <b>25NMC</b>. Happy halving day!</p>
-    <p><b>2014-09-12</b> Out now: <b>Namecoin v0.3.76</b> - <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=1975">Release info</a> -
-        <a href="?p=download">Download</a></p>
     <p><b>2014-04-20</b> Thanks to <b>Shobute</b> for designing and <b>Indolering</b> for pushing the <b>new website</b>.</p>
     <p><b>2014-04-17</b> The <b>Namecoin</b> blockchain is now <b>three years old</b>. Happy birthday!</p>
     <p>For the latest news go to the <a href="http://forum.namecoin.info/">Namecoin forum</a> or check out <a href="http://reddit.com/r/namecoin">r/namecoin.</a></p>
