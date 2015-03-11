@@ -8,8 +8,8 @@ Download <a href="http://namecoin.info/files/Namecoin_v0.3.80_setup.exe">v0.3.80
 <a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=2123">Release information and signatures</a>.</div>
 <div class="col-sm-4">
 <h3>Mac OS X</h3>
-Download <a href="http://namecoin.info/files/Namecoin-Qt.app-0.3.76-18dfe28.zip">v0.3.76 Namecoin-Qt</a>.<br>
-<a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=2012">Release information</a>.</div>
+Download <a href="http://namecoin.info/files/Namecoin-Qt.app-0.3.80-a00c33d.zip">v0.3.80 Namecoin-Qt</a>.<br>
+<a target="_blank" href="http://forum.namecoin.info/viewtopic.php?f=8&t=2235">Release information</a>.</div>
 </div>
 </ul>
 </div>
