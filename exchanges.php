@@ -17,12 +17,12 @@
     </span>
     <span style="font-size:85%;">
         <b>Basic level exchanges</b><br>
-        <a target="_blank" href="http://247exchange.com">247exchange</a><br>
+        <a target="_blank" href="https://www.247exchange.com/">247exchange</a><br>
         <a target="_blank" href="https://24change.com">24change</a><br>
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://coinmkt.com">coinMKT</a><br>
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
-        <a target="_blank" href="http://www.exchangemycoins.com/">ExchangeMyCoins</a><br>
+        <a target="_blank" href="https://www.exchangemycoins.com/">ExchangeMyCoins</a><br>
         <a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a><br>
         <a target="_blank" href="https://vircurex.com">Vircurex</a><br>
         <br>
