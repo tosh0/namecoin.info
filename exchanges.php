@@ -24,6 +24,7 @@
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
         <a target="_blank" href="https://www.exchangemycoins.com/">ExchangeMyCoins</a><br>
         <a target="_blank" href="http://liliontransfer.org">Lilion Transfer</a><br>
+        <a target="_blank" href="https://shapeshift.io/">ShapeShift</a><br>
         <a target="_blank" href="https://vircurex.com">Vircurex</a><br>
         <br>
     </span>
