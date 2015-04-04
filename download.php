@@ -17,7 +17,7 @@ Download <a href="https://namecoin.info/files/Namecoin-Qt.app-0.3.80-a00c33d.zip
 <div class="row">
 <div class="col-md-12">
 <h3>Linux Packages</h3>
-<p><a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&package=namecoin">Linux packages provided by OBS</a>.</p>
+<p><a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&amp;package=namecoin">Linux packages provided by OBS</a>.</p>
         </div>
     </div>
     </div>
