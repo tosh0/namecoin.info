@@ -17,11 +17,8 @@
 			<a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2235">Release information</a>.
 		</p>
 	</div>
-</div>
-<br><br>
-<div class="row">
-	<div class="col-md-12">
+	<div class="col-sm-4">
 		<h3>Linux Packages</h3>
 		<p><a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&amp;package=namecoin">Linux packages provided by OBS</a>.</p>
-        </div>
+	</div>
 </div>
