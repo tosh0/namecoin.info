@@ -19,6 +19,10 @@
 	</div>
 	<div class="col-sm-4">
 		<h3>Linux Packages</h3>
-		<p><a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&amp;package=namecoin">Linux packages provided by OBS</a>.</p>
+		<p>
+			Linux packages provided by OBS.<br>
+			<a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&amp;package=namecoin">Command line client (namecoind)</a>.<br>
+			<a href="https://software.opensuse.org/download.html?project=home%3Ap_conrad%3Acoins&amp;package=namecoin-gui">Graphical interface (Namecoin-Qt)</a>.
+		</p>
 	</div>
 </div>
