@@ -11,7 +11,6 @@ Download <a href="https://namecoin.info/files/Namecoin_v0.3.80_setup.exe">v0.3.8
 Download <a href="https://namecoin.info/files/Namecoin-Qt.app-0.3.80-a00c33d.zip">v0.3.80 Namecoin-Qt</a>.<br>
 <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2235">Release information</a>.</div>
 </div>
-</ul>
 </div>
 <br><br>
 <div class="row">
