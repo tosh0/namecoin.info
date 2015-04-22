@@ -19,6 +19,7 @@
         <b>Basic level exchanges</b><br>
         <a target="_blank" href="https://www.247exchange.com/">247exchange</a><br>
         <a target="_blank" href="https://24change.com">24change</a><br>
+        <a target="_blank" href="https://alcurex.org">alcurEX</a><br>
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://coinmkt.com">coinMKT</a><br>
         <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
