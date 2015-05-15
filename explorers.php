@@ -3,7 +3,8 @@
     <p><b>Namecoin Blockchain Explorers</b></p>
     </span>
     <p>with Support for Name Operations</p>
-    <a target="_blank" href="https://namecha.in/">namecha.in</a><br>
+    <a target="_blank" href="http://namecoin.webbtc.com//">namecoin.webbtc</a> (open source)<br>
+    <a target="_blank" href="https://namecha.in/">namecha.in</a> (closed source)<br>
     <br>
     <p>with Basic Blockchain Support</p>
     <a target="_blank" href="https://bkchain.org/nmc">bkchain</a><br>
