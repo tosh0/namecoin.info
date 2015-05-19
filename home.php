@@ -30,6 +30,7 @@
 
 <div class="row">
     <h2>News</h2>
+    <p><b>2015-05-19</b> Check out the <a href="https://forum.namecoin.info/viewtopic.php?p=14754" target="_blank">Namecoin Bounty Cornucopia</a>.</p>
     <p><b>2015-03-20</b> <a href="http://n-o-d-e.net/post/113777384551/the-namecoin-interview-censorship-resistant" target="_blank">Interview</a>
         with Namecoin lead developer Daniel Kraft.</p>
     <p><b>2014-12-19</b> <b>Softfork</b> upcoming with block 212500 (around New Year's Eve). Pool operators and solo miners please
