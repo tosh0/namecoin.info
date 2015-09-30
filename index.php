@@ -76,6 +76,7 @@ $header = array('<strong>In information</strong><br />we <strong>trust</strong>.
                     <li><a href="https://forum.namecoin.info">Forum&#10138;</a></li>
                     <li><a href="https://wiki.namecoin.info">Wiki&#10138;</a></li>
                     <li><a href="https://wiki.namecoin.info/index.php?title=FAQ">FAQ&#10138;</a></li>
+                    <li><a href="https://github.com/namecoin/meta/blob/master/roadmap.md">Roadmap&#10138;</a></li>
                 </ul>
                 </div>
             </div>
