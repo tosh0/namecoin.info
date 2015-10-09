@@ -1,7 +1,9 @@
 <div class="row">
     <h2>Namecoin-Qt Client</h2>
-        <p>Client for normal use (but not for mining or development). Always wait for six confirmations.
-            <a href="https://github.com/namecoin/namecoin">Source on Github</a>.</p>
+        <p>
+            Client for normal use (but not for mining or development). Always wait for six confirmations.
+            <a href="https://github.com/namecoin/namecoin">Source on Github</a>.
+        </p>
         <div class="col-sm-4">
             <h3>Windows</h3>
             <p>
@@ -24,19 +26,36 @@
                 <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2235">Release information</a>.
             </p>
         </div>
-
+</div>
+<div class="row">
     <h2>NMControl Middleware</h2>
-        <p>NMControl connects your browser/application to the client (or soon to an API). It allows for example to browse .bit domains.
-            <a href="https://github.com/namecoin/nmcontrol">Source on Github</a>.</p>
+        <p>
+            NMControl connects your browser/application to the client (or soon to an API). It allows for example to browse .bit domains.
+            <a href="https://github.com/namecoin/nmcontrol">Source on Github</a>.
+        </p>
         <div class="col-sm-4">
             <h3>Windows</h3>
             <p>
                 Download <a href="https://namecoin.info/files/NMControl_v0.8.1_setup.exe">v0.8.1 installer</a>.<br>
-                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402"
-                >Release information and signatures (read this first)</a>.
+                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402">
+                Release information and signatures (read this first)</a>.
+            </p>
+        </div>
+        <div class="col-sm-4">
+            <h3>Linux and Mac OS X</h3>
+            <p>
+                With Python 2.7 installed you can run nmcontrol.py directly from the <a href="https://github.com/namecoin/nmcontrol">source</a>.
+                Make sure you have a Namecoin client running with the blockchain fully downloaded.
+                You can find additional information <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402">
+                here</a>.
             </p>
         </div>
 
+</div>
+<div class="row">
     <h2>Namecoin Core Client</h2>
-    <p>For miners, developers and expert users. <a href="https://github.com/namecoin/namecoin-core">Source on Github</a>.</p>
+    <p>
+        For miners, developers and expert users.
+        <a href="https://github.com/namecoin/namecoin-core">Source on Github</a>.
+    </p>
 </div>
