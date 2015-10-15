@@ -31,7 +31,7 @@
     <h2>NMControl Middleware</h2>
         <p>
             NMControl connects your browser/application to the client (or soon to an API). It allows you, for example, to browse .bit domains.
-            <a href="https://github.com/namecoin/nmcontrol">Source on Github</a>.
+            <a href="https://github.com/namecoin/nmcontrol">Source and installation instructions on Github</a>.
         </p>
         <div class="col-sm-4">
             <h3>Windows</h3>
@@ -44,8 +44,7 @@
         <div class="col-sm-4">
             <h3>Linux and Mac OS X</h3>
             <p>
-                With Python 2.7 installed you can run nmcontrol.py directly from the <a href="https://github.com/namecoin/nmcontrol">source</a>.
-                Make sure you have a Namecoin client running with the blockchain fully downloaded.
+                With Python 2.7 installed you can run nmcontrol.py directly from <a href="https://github.com/namecoin/nmcontrol">source</a>.
                 If you need help ask on Github or on the <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402">forum</a>.
             </p>
         </div>
