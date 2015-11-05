@@ -1,14 +1,14 @@
 <div class="row">
     <h2>Namecoin-Qt Client</h2>
         <p>
-            Client for normal use (but not for mining or development). Always wait for six confirmations.
+            Client for normal use with GUI (but not for mining or development). Always wait for six confirmations.
             <a href="https://github.com/namecoin/namecoin">Source on Github</a>.
         </p>
         <div class="col-sm-4">
             <h3>Windows</h3>
             <p>
                 Download <a href="https://namecoin.info/files/Namecoin_v0.3.80_setup.exe">v0.3.80 installer</a>.<br>
-                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2123">Release information and signatures</a>.
+                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&amp;t=2123">Release information and signatures</a>.
             </p>
         </div>
         <div class="col-sm-4">
@@ -23,7 +23,7 @@
             <h3>Mac OS X</h3>
             <p>
                 Download <a href="https://namecoin.info/files/Namecoin-Qt.app-0.3.80-a00c33d.zip">v0.3.80 Namecoin-Qt</a>.<br>
-                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2235">Release information</a>.
+                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&amp;t=2235">Release information</a>.
             </p>
         </div>
 </div>
@@ -37,7 +37,7 @@
             <h3>Windows</h3>
             <p>
                 Download <a href="https://namecoin.info/files/NMControl_v0.8.1_setup.exe">v0.8.1 installer</a>.<br>
-                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402">
+                <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&amp;t=2402">
                 Release information and signatures (read this first)</a>.
             </p>
         </div>
@@ -45,7 +45,7 @@
             <h3>Linux and Mac OS X</h3>
             <p>
                 With Python 2.7 installed you can run nmcontrol.py directly from <a href="https://github.com/namecoin/nmcontrol">source</a>.
-                If you need help ask on Github or on the <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&t=2402">forum</a>.
+                If you need help ask on Github or on the <a target="_blank" href="https://forum.namecoin.info/viewtopic.php?f=8&amp;t=2402">forum</a>.
             </p>
         </div>
 
@@ -53,7 +53,7 @@
 <div class="row">
     <h2>Namecoin Core Client</h2>
     <p>
-        For miners, developers and expert users.
+        For miners, developers, console only and expert users.
         <a href="https://github.com/namecoin/namecoin-core">Source on Github</a>.
     </p>
 </div>
