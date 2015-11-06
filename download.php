@@ -1,7 +1,7 @@
 <div class="row">
     <h2>Namecoin-Qt Client</h2>
         <p>
-            Client for normal use with GUI (but not for mining or development). Always wait for six confirmations.
+            Client for normal use with name management GUI tab (but not for mining or development). Always wait for six confirmations.
             <a href="https://github.com/namecoin/namecoin">Source on Github</a>.
         </p>
         <div class="col-sm-4">
@@ -30,7 +30,7 @@
 <div class="row">
     <h2>NMControl Middleware</h2>
         <p>
-            NMControl connects your browser/application to the client (or soon to an API). It allows you, for example, to browse .bit domains.
+            NMControl connects your browser/application to the client. It allows you, for example, to browse .bit domains.
             <a href="https://github.com/namecoin/nmcontrol">Source and installation instructions on Github</a>.
         </p>
         <div class="col-sm-4">
