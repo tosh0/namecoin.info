@@ -33,7 +33,7 @@
     <p><b>2015-10-13</b> A vulnerability was found in <a href="https://bitcoin.org/en/alert/2015-10-12-upnp-vulnerability">Bitcoin Core</a>.
         It allows an attack from malicious peers in the local network via UPNP. Namecoin is affected, too, so everybody should turn off UPNP until further notice.</p>
     <p><b>2015-08-13</b> Fix for OpenSSL Consensus Vulnerability has been deployed on 100% of mining hashpower.  Users of NamecoinQ (i.e. namecoind/Namecoin-Qt 0.3.x) are on semi-SPV security, and should wait for at least 6 confirmations for incoming transactions.  Users of Namecoin Core (in beta) are on full-node security.  Thanks to the miners for their quick action and everyone else who assisted in the response.</p>
-    <p><b>2015-07-29</b> Warning: <a href="https://forum.namecoin.info/viewtopic.php?f=2&t=2354" target="_blank">severe vulnerability disclosed</a> - be careful.</p>
+    <p><b>2015-07-29</b> Warning: <a href="https://forum.namecoin.info/viewtopic.php?f=2&amp;t=2354" target="_blank">severe vulnerability disclosed</a> - be careful.</p>
     <p><b>2015-05-19</b> Check out the <a href="https://forum.namecoin.info/viewtopic.php?p=14754" target="_blank">Namecoin Bounty Cornucopia</a>.</p>
     <p><b>2015-04-17</b> The <b>Namecoin</b> blockchain is now <b>four years old</b>. Happy birthday!</p>
     <p><b>2015-03-20</b> <a href="http://n-o-d-e.net/post/113777384551/the-namecoin-interview-censorship-resistant" target="_blank">Interview</a>
