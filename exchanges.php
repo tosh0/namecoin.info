@@ -23,7 +23,6 @@
         <a target="_blank" href="https://btc-e.com">btc-e</a><br>
         <a target="_blank" href="https://bter.com">Bter</a><br>
         <a target="_blank" href="https://cex.io/NMC-BTC">Cex.io</a><br>
-        <a target="_blank" href="https://www.cryptsy.com">Cryptsy</a><br>
         <a target="_blank" href="https://www.exchangemycoins.com/">ExchangeMyCoins</a><br>
         <a target="_blank" href="https://www.livecoin.net/">Livecoin</a><br>
         <a target="_blank" href="https://shapeshift.io/">ShapeShift</a><br>
