@@ -26,7 +26,7 @@
     </div>
 </div>
 
-<p>Find more information in the <a href="https://wiki.namecoin.info">Namecoin wiki</a> or join us on the <a href="https://forum.namecoin.info/search.php?st=7&sk=t&sd=d&sr=topics&search_id=active_topics">Namecoin forum</a>.</p>
+<p>Find more information in the <a href="https://wiki.namecoin.info">Namecoin wiki</a> or join us on the <a href="https://forum.namecoin.info">Namecoin forum</a>.</p>
 
 <div class="row">
     <h2>News</h2>
